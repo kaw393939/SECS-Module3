@@ -6,9 +6,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            string text = "Hello World";
             ConsoleTools consoleTools = new ConsoleTools();
-            consoleTools.WriteLine(text);
+            consoleTools.Write(args);
+            Console.ReadKey();
         }
     }
 }

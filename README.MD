@@ -6,20 +6,25 @@ You will be able explain the importance of automated testing and implement unit 
 You will be able to create DLL in C# that can output a string to the console and verify the output using an unit test.
 
 # Readings
-* [What is a DLL](https://support.microsoft.com/en-us/help/815065/what-is-a-dll)
-* [Types of Testing](https://www.softwaretestinghelp.com/types-of-software-testing/)
-* [C# TDD](https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-c-a0124338be44/)
-* [C# Unit Testig Cheat Sheet](https://www.automatetheplanet.com/nunit-cheat-sheet/)
-* [AAA Testing- Microsoft](https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2019)
-* [AAA Testing - Example](https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-aaa-in-unit-testing/)
-
+* [Object Oriented Concepts](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [Data Types - Literal](https://www.geeksforgeeks.org/c-sharp-literals/)
+* [Data Types - Arrays](https://www.geeksforgeeks.org/c-sharp-arrays/)
+* [Data Types - Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/)
+* [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/)
+* [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes)
+* [Classes Instances](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/instance-constructors)
+* [Classes Static](https://www.geeksforgeeks.org/static-keyword-in-c-sharp/)
+* [Interfaces](https://www.geeksforgeeks.org/c-sharp-interface/)
+* [Working with Strings and Format](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/)
+* [Strings and Arrays](https://www.geeksforgeeks.org/c-sharp-string/)
+* [Console Unit Testing](https://blogs.msdn.microsoft.com/ploeh/2006/10/21/console-unit-testing/)
 # Hands-On Assignment
-For this assignment you need to setup a Visual Studio solution with three projects:
+For this assignment you need to create a console application that consists of:
 1. Console Application
-2. Console Helper Library
-3. Console Library Test
+2. Console Helper Library DLL
+3. Console Helper Library Tests
 
-Your console application needs to use a DLL helper library that you create to print a string that is passed into the ConsoleUtilities writeline method.
+You will be able to create a command line helper DLL in C# that reads command line arguments, outputs text, and and accept user input.  You will develop tests that verify data has been inputted and outputted to the user through the command line.
 
 ## Submission Instructions
 Please submit to the learning management system(Moodle) a link to the GitHub repository for this assignment.
