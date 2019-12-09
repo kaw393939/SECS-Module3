@@ -1,9 +1,10 @@
 # Module Overview
 You will be able explain the importance of automated testing and implement unit testing for a class library and publish a DLL that can be used in a console application.
 # Module Video
-[Video: Module 2 - Solution Setup with Projects and Unit Testing](https://youtu.be/WHAnOi0szio)
+* [Video: Module 3 - OOP - Part 1](https://youtu.be/0xHrrg273lE)
+* [Video: Module 3 - OOP - Part 2](https://youtu.be/Di-98aWgefE)
 ## Hands On:
-You will be able to create DLL in C# that can output a string to the console and verify the output using an unit test.
+You will be able to create DLL in C# that can input and output a string or string array to the console and verify the output using an unit test.
 
 # Readings
 * [Object Oriented Concepts](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
